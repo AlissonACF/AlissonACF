@@ -34,7 +34,7 @@ Meu nome é **Alisson** e atualmente estou cursando **Análise e Desenvolvimento
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Bem-vindo+ao+meu+perfil+no+GitHub!;Apaixonado+por+tecnologia+e+criatividade;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Bem-vindo+ao+meu+perfil+no+GitHub!;Gosto+de+tecnologia+e+computadores;" />
 </p>
 
 <p align="center">
