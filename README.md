@@ -17,12 +17,7 @@ Meu nome é **Alisson** e atualmente estou cursando **Análise e Desenvolvimento
 
 ### 🚀 Tecnologias em aprendizado
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=blue"/>
-</div>
+<div style="display: flex; gap: 10px;"> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=blue"/> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=blue"/> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=blue"/> </div>
 
 ---
 
