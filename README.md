@@ -1,18 +1,15 @@
-## Hi there 👋
+## Olá desenvolvedores 👋
 
 <!--
-**AlissonACF/AlissonACF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Alisson, no momento estou cursando Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Pretendo me tornar um desenvolvedor Front-end.
+
+*Desenvolvedor em ascenção*
+
+Sjam muito bem vindos ao meu perfil 👋
+
 -->
 
 ![vsneon](https://github.com/acervenky/acervenky/blob/master/assets/vsneon1.gif)\
