@@ -1,6 +1,6 @@
 ## Olá desenvolvedores 👋
 
-Me chamo Alisson, no momento estou cursando Análise e Desenvolvimento de Sistemas.
+Meu nome é Alisson, no momento estou cursando Análise e Desenvolvimento de Sistemas.
 
 Pretendo me tornar um desenvolvedor Front-end.
 
