@@ -11,7 +11,7 @@
 
 Meu nome é **Alisson** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.
 
- apaixonado por tecnologia e design, e meu objetivo é me tornar um **desenvolvedor Front-end**.
+ Gosto de tecnologia e computadores, e meu objetivo é me tornar um **desenvolvedor Front-end**.
 
 ---
 
