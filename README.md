@@ -1,7 +1,7 @@
 <h1 align="center">Olá, desenvolvedores 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--end%20em%20formação-000000?style=for-the-badge&logo=html5&logoColor=blue" alt="Front-end badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20em%20formação-000000?style=for-the-badge&logo=html5&logoColor=blue" alt="Front-end badge"/>
   <img src="https://img.shields.io/badge/Alisson%20-%20Dev%20em%20ascensão-0d1117?style=for-the-badge&logo=github&logoColor=blue" alt="Alisson badge"/>
 </p>
 
