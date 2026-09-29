@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="perfil-hq.svg" width="100%" alt="Olá, desenvolvedores 👋 — Meu nome é Alisson Fagundes e atualmente estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e computadores, e meu objetivo é me tornar um desenvolvedor Full Stack. 🚀 Atualmente trabalho no TI da Transportadora Peregrina. Tecnologias em aprendizado: Java, JavaScript, HTML5, CSS3, MySQL e Git. Onde me encontrar: LinkedIn, alissomacf@gmail.com, WhatsApp (51) 98163-2801."/>
+ <img src="https://github.com/AlissonACF/AlissonACF/blob/main/perfil-hq.svg?raw=true" width="100%" alt="Olá, desenvolvedores 👋 — Alisson Fagundes, TI da Transportadora Peregrina"/>
 </p>
 
 <p align="center">
