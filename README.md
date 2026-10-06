@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AlissonACF?tab=repositories"><img src="apresentacao.svg" width="100%" alt="Olá, desenvolvedores 👋 — Full-Stack em formação. Alisson Fagundes, Dev em ascensão. Sobre mim: Meu nome é Alisson Fagundes e atualmente estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e computadores, e meu objetivo é me tornar um desenvolvedor Full Stack. 🚀 Atualmente trabalho no TI da Transportadora Peregrina. Tecnologias em aprendizado: Java, JavaScript, HTML5, CSS3, MySQL e Git. Onde me encontrar."/></a>
+  <a href="https://github.com/AlissonACF?tab=repositories"><img src="apresentacao-v2.svg" width="100%" alt="Olá, desenvolvedores 👋 — Full-Stack em formação. Alisson Fagundes, Dev em ascensão. Sobre mim: Meu nome é Alisson Fagundes e atualmente estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e computadores, e meu objetivo é me tornar um desenvolvedor Full Stack. 🚀 Assistente de TI da Transportadora Peregrina. Tecnologias em aprendizado: Java, JavaScript, HTML5, CSS3, MySQL e Git. Onde me encontrar."/></a>
   <br>
   <a href="https://www.linkedin.com/in/alisson-fagundes-b40634364/"><img src="botao-linkedin.svg" width="100%" alt="LinkedIn"/></a>
   <br>
